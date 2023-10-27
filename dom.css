@@ -1,0 +1,33 @@
+.container{
+    max-width: 400px;
+    border: 1px solid rgb(167, 115, 115);
+    border-radius: 5px;
+    text-align: center;
+    margin:0 auto;
+}
+
+.card{
+    background: rgb(5, 78, 83);
+    height:150px;
+    text-align: center;
+    line-height: 80px;
+    color: aliceblue;
+}
+
+.bot1{
+    background: rgb(42, 138, 109);
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border: 0;
+    cursor: pointer;
+}
+
+.bot2{
+    background: rgb(75, 60, 32);
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border: 0;
+    cursor: pointer;
+}
